@@ -1,0 +1,16 @@
+.metadata
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# eclipse files
+.project
+.classpath
+/bin
+/.project_settings
+.DS_Store
+.settings
+/nbproject
+/build/
